@@ -1,24 +1,16 @@
-# README
+# ウィザードアプリについての学び
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+１、ウィザード形式とは、対話するように順番に操作が進んでいく方式のこと
 
-Things you may want to cover:
+２、sessionとは、複数回に渡るリクエストにおいて、前のページの状態を保持するために利用される機能のこと
 
-* Ruby version
 
-* System dependencies
+# メリット
 
-* Configuration
+１、登録して欲しい情報が複数ある場合に情報をテーブル毎に分けることができるので管理しやすい
 
-* Database creation
+２、記入時に登録する内容が捉えやすくなる
 
-* Database initialization
+# デメリット
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+１、記入時に複数回画面遷移すると何回記入するかわからないので、記入自体がめんどくさくなる
